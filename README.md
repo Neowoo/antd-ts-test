@@ -1,4 +1,4 @@
-# ts-prac
+# antd-ts-prac
 
 ## Project setup
 ```
